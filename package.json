@@ -1,0 +1,23 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntakuya/electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntakuya/electron/issues"
+  },
+  "homepage": "https://github.com/Ntakuya/electron#readme",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
