@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Ntakuya/electron#readme",
   "devDependencies": {
-    "electron": "^9.1.2"
+    "electron": "^11.5.0"
   }
 }
